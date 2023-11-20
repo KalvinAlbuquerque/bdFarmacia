@@ -90,7 +90,8 @@ INSERT INTO Estado (NOME) VALUES
 ('Mato Grosso do Sul'),
 ('Minas Gerais'),
 ('Pará'),
-('Paraíba');
+('Paraíba'),
+('São Paulo');
 
 #Inserindo dados em cidade
 INSERT INTO Cidade (NOME, Estado_idEstado) VALUES
