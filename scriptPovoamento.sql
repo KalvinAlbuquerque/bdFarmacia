@@ -109,7 +109,9 @@ INSERT INTO Cidade (NOME, Estado_idEstado) VALUES
 ('Campo Grande', 12),       
 ('Belo Horizonte', 13),     
 ('Belém', 14),             
-('João Pessoa', 15);       
+('João Pessoa', 15),
+('Barreiras', 5),
+('Candeias', 5);       
 
 #Inserindo dados em fornecedores
 INSERT INTO Fornecedor (CNPJ, NOME_FANTASIA, RAZAO_SOCIAL, INSCRICAO_ESTADUAL, ENDERECO, BAIRRO, CEP, TELEFONE, EMAIL, Cidade_idCidade) VALUES
